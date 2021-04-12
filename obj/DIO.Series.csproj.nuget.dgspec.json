@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj": {}
+    "D:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "d:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj": {
+    "D:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "D:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "d:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "D:\\Projetos\\.Net\\DIO\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-        "outputPath": "d:\\Projetos\\.Net\\DIO\\DIO.Series\\obj\\",
+        "outputPath": "D:\\Projetos\\.Net\\DIO\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
